@@ -10,7 +10,7 @@
 
 <br/>
 
-## Celso Marrima
+## Celso Paulino Marrima
 
 **Engenheiro de Software** com domínio completo do backend ao frontend —<br/>
 sistemas distribuídos, microsserviços event-driven e interfaces modernas React/Next.js.
@@ -79,5 +79,11 @@ Experiência em **Arquitetura Hexagonal**, **DDD**, **Clean Architecture** e int
 | 🔒 | **Bring Workers** — Pipeline assíncrono de coleta e enriquecimento de dados com circuit-breakers e monitoramento Prometheus | Python · FastAPI · Playwright · Kafka |
 | ✅ | **[DM Catálogo](https://github.com/devmarrima)** — API RESTful de catálogo de produtos com arquitetura em camadas e boas práticas backend | Java · Spring Boot · PostgreSQL · JPA |
 | ✅ | **[Hexagonal Orders](https://github.com/devmarrima/Hexagonal-orders-products)** — Sistema de pedidos com Hexagonal Arch + DDD, domínio puro sem dependências de framework | Java · Spring Boot · DDD · JUnit 5 |
-| ✅ | **[Gestor Stock](https://github.com/devmarrima/gestor-stock)** — API de gestão de estoque com audit log e Bean Validation | Java · Spring Boot · JPA · PostgreSQL |
 | ✅ | **[Employee Auth](https://github.com/devmarrima/Employee-auth)** — Autenticação enterprise com OAuth2, JWT e RBAC | Java · Spring Security · OAuth2 · JWT |
+| ✅ | **[dscommerce-list](https://github.com/devmarrima/dscommerce-list)** — API de e-commerce com catálogo de produtos, pedidos e gestão de clientes | Java · Spring Boot · JPA · PostgreSQL |
+| ✅ | **[TDD-Event-City](https://github.com/devmarrima/TDD-Event-City)** — CRUD de eventos e cidades com cobertura completa de testes via TDD | Java · Spring Boot · JUnit 5 · TDD |
+| ✅ | **[tdd-department-employee](https://github.com/devmarrima/tdd-department-employee)** — Gestão de departamentos e funcionários com desenvolvimento orientado a testes | Java · Spring Boot · JUnit 5 · TDD |
+| ✅ | **[Desafio-validacao-seguranca](https://github.com/devmarrima/Desafio-validacao-seguranca)** — Desafio de validação de dados e segurança com Spring Security e Bean Validation | Java · Spring Security · JWT · Validation |
+| ✅ | **[desafio-consulta-vendas](https://github.com/devmarrima/desafio-consulta-vendas)** — Relatórios e consultas otimizadas sobre dados de vendas com JPQL e projeções | Java · Spring Boot · JPQL · PostgreSQL |
+| ✅ | **[queries-jpa1](https://github.com/devmarrima/queries-jpa1)** — Laboratório de consultas JPA: JPQL, Criteria API e otimização de queries | Java · Spring Boot · JPA · JPQL |
+| ✅ | **[N-mais1-consultas](https://github.com/devmarrima/N-mais1-consultas)** — Estudo e resolução do problema N+1 com fetch joins e projeções eficientes | Java · Spring Boot · Hibernate · JPA |

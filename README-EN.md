@@ -10,7 +10,7 @@
 
 <br/>
 
-## Celso Marrima
+## Celso Paulino Marrima
 
 **Software Engineer** with full-stack ownership from backend to frontend —<br/>
 distributed systems, event-driven microservices, and modern React/Next.js interfaces.
@@ -79,5 +79,11 @@ Experienced in **Hexagonal Architecture**, **DDD**, **Clean Architecture**, and 
 | 🔒 | **Bring Workers** — Async data collection and enrichment pipeline with circuit-breakers and Prometheus monitoring | Python · FastAPI · Playwright · Kafka |
 | ✅ | **[DM Catálogo](https://github.com/devmarrima)** — RESTful product catalog API with layered architecture and backend best practices | Java · Spring Boot · PostgreSQL · JPA |
 | ✅ | **[Hexagonal Orders](https://github.com/devmarrima/Hexagonal-orders-products)** — Order system with Hexagonal Arch + DDD, pure domain with no framework dependencies | Java · Spring Boot · DDD · JUnit 5 |
-| ✅ | **[Gestor Stock](https://github.com/devmarrima/gestor-stock)** — Inventory management API with audit log and Bean Validation | Java · Spring Boot · JPA · PostgreSQL |
 | ✅ | **[Employee Auth](https://github.com/devmarrima/Employee-auth)** — Enterprise authentication with OAuth2, JWT and RBAC | Java · Spring Security · OAuth2 · JWT |
+| ✅ | **[dscommerce-list](https://github.com/devmarrima/dscommerce-list)** — E-commerce API with product catalog, orders, and customer management | Java · Spring Boot · JPA · PostgreSQL |
+| ✅ | **[TDD-Event-City](https://github.com/devmarrima/TDD-Event-City)** — Events and cities CRUD with full test coverage via TDD | Java · Spring Boot · JUnit 5 · TDD |
+| ✅ | **[tdd-department-employee](https://github.com/devmarrima/tdd-department-employee)** — Department and employee management with test-driven development | Java · Spring Boot · JUnit 5 · TDD |
+| ✅ | **[Desafio-validacao-seguranca](https://github.com/devmarrima/Desafio-validacao-seguranca)** — Security and data validation challenge with Spring Security and Bean Validation | Java · Spring Security · JWT · Validation |
+| ✅ | **[desafio-consulta-vendas](https://github.com/devmarrima/desafio-consulta-vendas)** — Optimized sales reports and queries using JPQL and projections | Java · Spring Boot · JPQL · PostgreSQL |
+| ✅ | **[queries-jpa1](https://github.com/devmarrima/queries-jpa1)** — JPA query lab: JPQL, Criteria API, and query optimization | Java · Spring Boot · JPA · JPQL |
+| ✅ | **[N-mais1-consultas](https://github.com/devmarrima/N-mais1-consultas)** — Study and resolution of the N+1 problem with fetch joins and efficient projections | Java · Spring Boot · Hibernate · JPA |

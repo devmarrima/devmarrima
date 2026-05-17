@@ -29,6 +29,8 @@ Engenheiro de Software com foco em **sistemas distribuídos**, **microsserviços
 
 Experiência em **Arquitetura Hexagonal**, **DDD**, **Clean Architecture**, **OAuth2**, **JWT** e integração com IA. Pratico **TDD** e escrevo testes em todos os níveis — unitários, de integração e end-to-end — com **JUnit 5**, **Mockito**, **Testcontainers** e **REST Assured**, garantindo cobertura real e confiabilidade em produção.
 
+Na parte de infraestrutura, trabalho com **Docker**, **Kubernetes**, cloud **AWS** e **Azure**, pipelines **CI/CD** com GitHub Actions, monitoramento com **Prometheus** e **Grafana**, e ambiente **Linux** no dia a dia.
+
 Atuo em sistemas de alta complexidade — plataformas distribuídas multi-serviço com pipelines de dados, streaming de eventos e enriquecimento por IA.
 
 ---
@@ -67,7 +69,7 @@ Atuo em sistemas de alta complexidade — plataformas distribuídas multi-servi�
 | **Mensageria** | Apache Kafka · RabbitMQ · SmallRye Reactive Messaging |
 | **Banco de Dados** | PostgreSQL · Redis · MongoDB |
 | **Frontend & Fullstack** | Next.js · React · TypeScript · TailwindCSS · Framer Motion |
-| **Infra & DevOps** | Docker · GitHub Actions · Linux · Prometheus · Grafana |
+| **Infra & DevOps** | Docker · Kubernetes · AWS · Azure · GitHub Actions · CI/CD · Linux · Prometheus · Grafana |
 | **Automação & IA** | Playwright · httpx · Anthropic API · N8N |
 | **Arquitetura** | Hexagonal · DDD · Clean Architecture · Event-Driven · Microservices · CQRS |
 

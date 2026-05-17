@@ -27,9 +27,9 @@ Goiânia, Brazil &nbsp;·&nbsp; 🇧🇷 Native Portuguese &nbsp;·&nbsp; 🇬�
 
 Software Engineer focused on **distributed systems**, **microservices**, and **fullstack development**. I build high-performance APIs with **Java/Quarkus** and **Python/FastAPI**, async pipelines with **Kafka**, and modern interfaces with **React/Next.js**.
 
-Experienced in **Hexagonal Architecture**, **DDD**, **Clean Architecture**, and AI integration. I practice **TDD** and write tests at every level — unit, integration, and end-to-end — using **JUnit 5**, **Mockito**, **Testcontainers**, and **REST Assured**, ensuring real coverage and production reliability.
+Experienced in **Hexagonal Architecture**, **DDD**, **Clean Architecture**, **OAuth2**, **JWT**, and AI integration. I practice **TDD** and write tests at every level — unit, integration, and end-to-end — using **JUnit 5**, **Mockito**, **Testcontainers**, and **REST Assured**, ensuring real coverage and production reliability.
 
-Currently developing **Bring** — a distributed recruitment platform with microservices, Kafka streaming, and AI enrichment.
+I work on high-complexity production systems — multi-service distributed platforms with data pipelines, event streaming, and AI enrichment.
 
 ---
 

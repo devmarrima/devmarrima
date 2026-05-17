@@ -27,7 +27,9 @@ Goiânia, Brasil &nbsp;·&nbsp; 🇧🇷 Português Nativo &nbsp;·&nbsp; 🇬�
 
 Engenheiro de Software com foco em **sistemas distribuídos**, **microsserviços** e **desenvolvimento fullstack**. Construo APIs de alta performance com **Java/Quarkus** e **Python/FastAPI**, pipelines assíncronos com **Kafka**, e interfaces modernas com **React/Next.js**.
 
-Experiência em **Arquitetura Hexagonal**, **DDD**, **Clean Architecture** e integração com IA. Atualmente desenvolvendo a **Bring** — plataforma de recrutamento distribuída com microsserviços, streaming Kafka e enriquecimento por IA.
+Experiência em **Arquitetura Hexagonal**, **DDD**, **Clean Architecture** e integração com IA. Pratico **TDD** e escrevo testes em todos os níveis — unitários, de integração e end-to-end — com **JUnit 5**, **Mockito**, **Testcontainers** e **REST Assured**, garantindo cobertura real e confiabilidade em produção.
+
+Atualmente desenvolvendo a **Bring** — plataforma de recrutamento distribuída com microsserviços, streaming Kafka e enriquecimento por IA.
 
 ---
 

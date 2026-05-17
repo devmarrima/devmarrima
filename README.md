@@ -56,6 +56,10 @@ Atuo em sistemas de alta complexidade — plataformas distribuídas multi-servi�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marrimacelso-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/marrimacelso)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-marrimatra%40gmail.com-2563eb?style=flat-square&logo=gmail&logoColor=white)](mailto:marrimatra@gmail.com)
+&nbsp;&nbsp;
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B55%2062%2099297--6992-25d366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5562992976992)
+
+<sub>📞 WhatsApp & chamadas — somente contato profissional</sub>
 
 </div>
 

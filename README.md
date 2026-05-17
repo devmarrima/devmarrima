@@ -1,60 +1,58 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=580&lines=Backend+Engineer+%26+Software+Architect;Java+%7C+Python+%7C+Quarkus+%7C+Spring+Boot;Kafka+%7C+Distributed+Systems+%7C+Microservices;Event-Driven+Architecture+%7C+Clean+Code" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+%26+Fullstack+Engineer;Java+%7C+Python+%7C+Quarkus+%7C+Spring+Boot;Kafka+%7C+Distributed+Systems+%7C+Microservices;React+%7C+Next.js+%7C+Event-Driven+Architecture" alt="Typing" />
 
 <br/>
 
 # Celso Marrima
 
-**Engenheiro de Software** — Goiânia, Brasil 🇧🇷
+### Backend & Fullstack Engineer
+
+Goiânia, Brasil &nbsp;·&nbsp; 🇧🇷 Nativo &nbsp;·&nbsp; 🇬🇧 Upper-Intermediate &nbsp;·&nbsp; 🇪🇸 Upper-Intermediate
 
 <br/>
 
-> *Sistemas distribuídos de verdade. Arquitetura que escala. Código que dura.*
+<a href="https://portfolio-devmarrimas-projects.vercel.app">
+  <img src="https://img.shields.io/badge/🌐%20%20Ver%20Portfólio%20Completo%20%20→-1d4ed8?style=for-the-badge&logoColor=white" height="46" alt="Portfólio"/>
+</a>
+
+<br/><sub>Projetos detalhados · Stack completa · Arquitetura · Contato &nbsp;|&nbsp; 🇧🇷 PT / 🇬🇧 EN</sub>
 
 <br/>
 
----
-
-### 🌐 Conheça meu trabalho completo
-
-<a href="https://portfolio-devmarrimas-projects.vercel.app">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2563eb?style=flat-square&label=+&labelColor=2563eb" height="4"/>
+<a href="https://linkedin.com/in/marrimacelso">
+  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://portfolio-devmarrimas-projects.vercel.app">
-  <img src="https://img.shields.io/badge/🌐   VER   PORTFÓLIO   COMPLETO   →-1d4ed8?style=for-the-badge&logoColor=white" height="52" alt="Ver Portfólio"/>
+&nbsp;
+<a href="mailto:marrimatra@gmail.com">
+  <img src="https://img.shields.io/badge/Email-2563eb?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://portfolio-devmarrimas-projects.vercel.app">
-  <img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-2563eb?style=flat-square&label=+&labelColor=2563eb" height="4"/>
-</a>
-
-<sub>Projetos em detalhe &nbsp;·&nbsp; Stack completa &nbsp;·&nbsp; Arquitetura &nbsp;·&nbsp; Contato &nbsp;·&nbsp; 🇧🇷 PT / 🇬🇧 EN</sub>
-
----
-
-<p>
-  <a href="https://linkedin.com/in/marrimacelso">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:marrimatra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 </div>
 
 ---
 
-## Sobre
+<details open>
+<summary><b>🇧🇷 Português</b></summary>
 
-Engenheiro de Software com foco em **sistemas distribuídos**, **arquitetura de microsserviços** e **plataformas orientadas a eventos**. Construo APIs de alta performance com **Java/Quarkus** e **Python/FastAPI**, pipelines assíncronos com **Kafka**, e sistemas cloud-native resilientes.
+<br/>
 
-Experiência em **Arquitetura Hexagonal**, **Domain-Driven Design**, **Clean Architecture** e integração com IA. Atualmente desenvolvendo a **Bring** — plataforma de recrutamento distribuída com microsserviços, streaming Kafka e enriquecimento por IA.
+Engenheiro de Software com foco em **sistemas distribuídos**, **microsserviços** e **desenvolvimento fullstack**. Construo APIs de alta performance com **Java/Quarkus** e **Python/FastAPI**, pipelines assíncronos com **Kafka** e interfaces modernas com **React/Next.js**.
 
-**Idiomas:** 🇧🇷 Português (Nativo) &nbsp;·&nbsp; 🇬🇧 English (Upper-Intermediate) &nbsp;·&nbsp; 🇪🇸 Español (Upper-Intermediate)
+Experiência em **Arquitetura Hexagonal**, **DDD**, **Clean Architecture** e integração com IA. Atualmente desenvolvendo a **Bring** — plataforma de recrutamento distribuída com microsserviços, Kafka e enriquecimento por IA.
+
+</details>
+
+<details>
+<summary><b>🇬🇧 English</b></summary>
+
+<br/>
+
+Software Engineer focused on **distributed systems**, **microservices**, and **fullstack development**. I build high-performance APIs with **Java/Quarkus** and **Python/FastAPI**, async pipelines with **Kafka**, and modern interfaces with **React/Next.js**.
+
+Experienced in **Hexagonal Architecture**, **DDD**, **Clean Architecture**, and AI integration. Currently building **Bring** — a distributed recruiting platform with microservices, Kafka streaming, and AI enrichment.
+
+</details>
 
 ---
 
@@ -81,11 +79,11 @@ Experiência em **Arquitetura Hexagonal**, **Domain-Driven Design**, **Clean Arc
 ![Redis](https://img.shields.io/badge/Redis-2563eb?style=flat-square&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1d4ed8?style=flat-square&logo=mongodb&logoColor=white)
 
-**Frontend**
+**Frontend & Fullstack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-1d4ed8?style=flat-square&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-2563eb?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1d4ed8?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-2563eb?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Infraestrutura & DevOps**
@@ -107,51 +105,20 @@ Experiência em **Arquitetura Hexagonal**, **Domain-Driven Design**, **Clean Arc
 
 ## Projetos
 
-### 🔒 Bring Platform *(privado)*
-Plataforma de recrutamento distribuída com 6+ microsserviços Quarkus, pipeline Kafka, enriquecimento por IA (Anthropic) e dashboard Next.js fullstack. Arquitetura Hexagonal + DDD + Event-Driven.
-
-`Java` `Quarkus` `Kafka` `PostgreSQL` `Python` `Next.js` `Anthropic AI` `Docker`
-
----
-
-### 🔒 Bring Workers *(privado)*
-Infraestrutura de coleta e enriquecimento de dados — workers especializados, pipeline assíncrono de 8 estágios, circuit-breakers, publisher Kafka e monitoramento Prometheus.
-
-`Python` `FastAPI` `Playwright` `httpx` `Kafka` `Prometheus`
-
----
-
-### 🔒 DM Catálogo *(privado)*
-API RESTful de catálogo de produtos com arquitetura em camadas, validação robusta, tratamento global de exceções e boas práticas de design de APIs backend.
-
-`Java` `Spring Boot` `PostgreSQL` `JPA` `REST API`
-
----
-
-### [Hexagonal Orders & Products](https://github.com/devmarrima/Hexagonal-orders-products)
-Sistema de pedidos com Arquitetura Hexagonal e DDD — domínio puro sem dependências de framework, ports & adapters para isolamento total de infraestrutura.
-
-`Java` `Spring Boot` `Hexagonal Arch` `DDD` `JUnit 5`
-
----
-
-### [Gestor Stock](https://github.com/devmarrima/gestor-stock)
-API RESTful de gestão de estoque com controle de movimentações, audit log com timestamps e Bean Validation.
-
-`Java` `Spring Boot` `JPA` `PostgreSQL`
-
----
-
-### [Employee Auth System](https://github.com/devmarrima/Employee-auth)
-Serviço de autenticação enterprise com OAuth2, JWT, RBAC e fluxos de refresh token via Spring Security.
-
-`Java` `Spring Boot` `Spring Security` `OAuth2` `JWT`
+| | Projeto | Stack | |
+|---|---|---|---|
+| 🔒 | **Bring Platform** — Plataforma de recrutamento distribuída com 6+ microsserviços Quarkus, Kafka, IA (Anthropic) e dashboard fullstack Next.js | `Java` `Quarkus` `Kafka` `Python` `Next.js` | *privado* |
+| 🔒 | **Bring Workers** — Pipeline assíncrono de coleta e enriquecimento de dados, circuit-breakers e monitoramento Prometheus | `Python` `FastAPI` `Playwright` `Kafka` | *privado* |
+| 🔒 | **DM Catálogo** — API RESTful de catálogo de produtos com arquitetura em camadas e boas práticas backend | `Java` `Spring Boot` `PostgreSQL` `JPA` | *privado* |
+| ✅ | **[Hexagonal Orders](https://github.com/devmarrima/Hexagonal-orders-products)** — Sistema de pedidos com Hexagonal Arch + DDD, domínio puro sem dependências de framework | `Java` `Spring Boot` `DDD` `JUnit 5` | público |
+| ✅ | **[Gestor Stock](https://github.com/devmarrima/gestor-stock)** — API de gestão de estoque com audit log, Bean Validation e controle de movimentações | `Java` `Spring Boot` `JPA` `PostgreSQL` | público |
+| ✅ | **[Employee Auth](https://github.com/devmarrima/Employee-auth)** — Autenticação enterprise com OAuth2, JWT e RBAC via Spring Security | `Java` `Spring Security` `OAuth2` `JWT` | público |
 
 ---
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=devmarrima&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=1d4ed8&icon_color=2563eb&text_color=0f172a&ring_color=2563eb"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarrima&layout=compact&hide_border=true&bg_color=f8fafc&title_color=1d4ed8&text_color=0f172a&langs_count=6"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=devmarrima&show_icons=true&hide_border=true&bg_color=f8fafc&title_color=1d4ed8&icon_color=2563eb&text_color=0f172a"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarrima&layout=compact&hide_border=true&bg_color=f8fafc&title_color=1d4ed8&text_color=0f172a&langs_count=6"/>
 
 </div>

@@ -6,7 +6,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=580&lines=Backend+%26+Fullstack+Engineer;Java+%7C+Python+%7C+Quarkus+%7C+Spring+Boot;Kafka+%7C+Microservices+%7C+Distributed+Systems;Next.js+%7C+React+%7C+TypeScript+%7C+TailwindCSS" alt="Typing"/>
+<a href="#" tabindex="-1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=580&lines=Backend+%26+Fullstack+Engineer;Java+%7C+Python+%7C+Quarkus+%7C+Spring+Boot;Kafka+%7C+Microservices+%7C+Distributed+Systems;Next.js+%7C+React+%7C+TypeScript+%7C+TailwindCSS" alt="Typing"/>
+</a>
 
 <br/>
 
@@ -39,7 +41,9 @@ Atuo em sistemas de alta complexidade — plataformas distribuídas multi-servi�
 
 ### 📁 Todo o meu trabalho está aqui
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=700&pause=300&color=2563EB&center=true&vCenter=true&width=320&lines=%E2%86%93+portfolio+%E2%86%93;%E2%86%93+projetos+%E2%86%93;%E2%86%93+arquitetura+%E2%86%93;%E2%86%93+contato+%E2%86%93" alt="seta animada"/>
+<a href="#" tabindex="-1">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=700&pause=300&color=2563EB&center=true&vCenter=true&width=320&lines=%E2%86%93+portfolio+%E2%86%93;%E2%86%93+projetos+%E2%86%93;%E2%86%93+arquitetura+%E2%86%93;%E2%86%93+contato+%E2%86%93" alt="seta animada"/>
+</a>
 
 <br/>
 

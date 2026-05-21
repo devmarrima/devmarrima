@@ -1,0 +1,105 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#09090f"/>
+      <stop offset="100%" stop-color="#0f0f1a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="440" y1="240" x2="840" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="30%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="70%" cy="60%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="640" fill="url(#bg)"/>
+  <rect width="1280" height="640" fill="url(#glow1)"/>
+  <rect width="1280" height="640" fill="url(#glow2)"/>
+
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" x="0" y="0" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 60 0 L 0 0 0 60" fill="none" stroke="white" stroke-width="0.4" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1280" height="1" fill="url(#accent)" opacity="0.3"/>
+
+  <!-- Left side code decoration -->
+  <text x="60" y="160" font-family="'JetBrains Mono', monospace" font-size="13" fill="#3b82f6" opacity="0.25">@ApplicationScoped</text>
+  <text x="60" y="200" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.18">public class JobService {</text>
+  <text x="60" y="230" font-family="'JetBrains Mono', monospace" font-size="13" fill="#a78bfa" opacity="0.15">  @Inject KafkaProducer p;</text>
+  <text x="60" y="260" font-family="'JetBrains Mono', monospace" font-size="13" fill="#818cf8" opacity="0.12">  Uni&lt;Job&gt; process(...) {</text>
+  <text x="60" y="290" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.10">    return port.handle();</text>
+  <text x="60" y="320" font-family="'JetBrains Mono', monospace" font-size="13" fill="#a78bfa" opacity="0.08">  }</text>
+  <text x="60" y="350" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.06">}</text>
+
+  <!-- Right side code decoration -->
+  <text x="1000" y="200" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.20">kafka: jobs.raw →</text>
+  <text x="1000" y="230" font-family="'JetBrains Mono', monospace" font-size="13" fill="#a78bfa" opacity="0.18">  Enrichment →</text>
+  <text x="1000" y="260" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.15">kafka: jobs.enriched →</text>
+  <text x="1000" y="290" font-family="'JetBrains Mono', monospace" font-size="13" fill="#818cf8" opacity="0.12">  Dedup Engine →</text>
+  <text x="1000" y="320" font-family="'JetBrains Mono', monospace" font-size="13" fill="#60a5fa" opacity="0.10">PostgreSQL</text>
+
+  <!-- Center: main content -->
+  <!-- Availability badge -->
+  <rect x="560" y="165" width="160" height="26" rx="13" fill="#10b981" fill-opacity="0.12" stroke="#10b981" stroke-width="1" stroke-opacity="0.3"/>
+  <circle cx="577" cy="178" r="3.5" fill="#10b981"/>
+  <text x="590" y="183" font-family="'JetBrains Mono', monospace" font-size="11" fill="#10b981" font-weight="600" letter-spacing="1">AVAILABLE FOR HIRE</text>
+
+  <!-- Name -->
+  <text x="640" y="260" font-family="'Inter', system-ui, sans-serif" font-size="64" font-weight="900" fill="url(#nameGrad)" text-anchor="middle" letter-spacing="-2">Celso Marrima</text>
+
+  <!-- Title -->
+  <text x="640" y="308" font-family="'Inter', system-ui, sans-serif" font-size="22" font-weight="300" fill="#a1a1aa" text-anchor="middle" letter-spacing="0.5">Backend Engineer &amp; Software Architect</text>
+
+  <!-- Divider -->
+  <rect x="560" y="332" width="160" height="1" fill="url(#accent)" opacity="0.5"/>
+
+  <!-- Location -->
+  <text x="640" y="362" font-family="'JetBrains Mono', monospace" font-size="13" fill="#6b7280" text-anchor="middle">Goiânia, Brazil · Remote-first</text>
+
+  <!-- Tech badges row -->
+  <!-- Java -->
+  <rect x="340" y="400" width="72" height="28" rx="14" fill="#f97316" fill-opacity="0.08" stroke="#f97316" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="376" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#fb923c" text-anchor="middle" font-weight="500">Java</text>
+
+  <!-- Quarkus -->
+  <rect x="424" y="400" width="82" height="28" rx="14" fill="#3b82f6" fill-opacity="0.08" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="465" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" font-weight="500">Quarkus</text>
+
+  <!-- Kafka -->
+  <rect x="518" y="400" width="70" height="28" rx="14" fill="#8b5cf6" fill-opacity="0.08" stroke="#8b5cf6" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="553" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#a78bfa" text-anchor="middle" font-weight="500">Kafka</text>
+
+  <!-- Microservices -->
+  <rect x="600" y="400" width="116" height="28" rx="14" fill="#6366f1" fill-opacity="0.08" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="658" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#818cf8" text-anchor="middle" font-weight="500">Microservices</text>
+
+  <!-- PostgreSQL -->
+  <rect x="728" y="400" width="100" height="28" rx="14" fill="#3b82f6" fill-opacity="0.08" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="778" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" font-weight="500">PostgreSQL</text>
+
+  <!-- Docker -->
+  <rect x="840" y="400" width="72" height="28" rx="14" fill="#3b82f6" fill-opacity="0.08" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="876" y="419" font-family="'JetBrains Mono', monospace" font-size="12" fill="#60a5fa" text-anchor="middle" font-weight="500">Docker</text>
+
+  <!-- Bottom domain hint -->
+  <text x="640" y="490" font-family="'JetBrains Mono', monospace" font-size="13" fill="#3b3b4f" text-anchor="middle">github.com/devmarrima · linkedin.com/in/marrimacelso</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="639" width="1280" height="1" fill="url(#accent)" opacity="0.2"/>
+</svg>
